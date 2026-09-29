@@ -1,0 +1,37 @@
+const { chromium } = require('C:/Users/aa404/.cache/codex-runtimes/codex-primary-runtime/dependencies/node/node_modules/playwright')
+;(async () => {
+  const browser = await chromium.launch({ headless: true, executablePath: 'C:/Program Files/Google/Chrome/Application/chrome.exe' })
+  try {
+    const page = await browser.newPage({ viewport: { width: 390, height: 844 }, deviceScaleFactor: 1 })
+    const errors = []
+    page.on('pageerror', error => errors.push(error.message))
+    for (const [theme, option] of [['爱情', '目前单身'], ['事业', '正在工作'], ['财富', '日常收支']]) {
+      await page.goto('http://127.0.0.1:5173/#/subpages/tarot/index?theme=' + encodeURIComponent(theme))
+      await page.evaluate(() => localStorage.clear())
+      await page.reload()
+      await page.getByText('开始洗牌').waitFor()
+      const images = await page.locator('img').evaluateAll(items => items.map(item => ({ src: item.src, loaded: item.complete && item.naturalWidth > 0 })))
+      if (images.some(item => !item.loaded)) throw new Error(theme + ' entry image missing: ' + JSON.stringify(images))
+      if (theme === '爱情') await page.screenshot({ path: 'qa/tarot-entry.png', fullPage: true })
+      await page.getByText('开始洗牌').click()
+      if (await page.locator('.flow-fan-card').count() !== 78) throw new Error('Deck is not 78 cards')
+      if (theme === '爱情') await page.screenshot({ path: 'qa/tarot-selection.png', fullPage: true })
+      await page.mouse.click(80, 350)
+      await page.mouse.click(190, 350)
+      await page.mouse.click(300, 350)
+      if (theme === '爱情') await page.screenshot({ path: 'qa/tarot-loading.png', fullPage: true })
+      await page.locator('.flow-choice').filter({ hasText: option }).waitFor({ timeout: 5000 })
+      await page.screenshot({ path: 'qa/tarot-' + theme + '-context.png', fullPage: true })
+      await page.locator('.flow-choice').filter({ hasText: option }).click()
+      await page.getByText('今天的一小步').waitFor()
+      if (theme === '爱情') await page.screenshot({ path: 'qa/tarot-reading.png', fullPage: true })
+      await page.locator('.flow-chip').first().click()
+      await page.locator('.flow-follow-copy').waitFor()
+      if (theme === '爱情') await page.screenshot({ path: 'qa/tarot-followup.png', fullPage: true })
+      await page.reload()
+      await page.locator('.flow-follow-copy').waitFor()
+      console.log(theme + ': flow, images, follow-up, resume passed')
+    }
+    if (errors.length) throw new Error('Browser errors: ' + errors.join('; '))
+  } finally { await browser.close() }
+})().catch(error => { console.error(error); process.exit(1) })

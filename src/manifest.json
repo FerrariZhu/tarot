@@ -1,0 +1,11 @@
+{
+  "name": "解忧小卖部",
+  "appid": "",
+  "description": "塔罗与周易自我整理工具",
+  "versionName": "1.0.0",
+  "versionCode": "100",
+  "transformPx": false,
+  "mp-weixin": { "appid": "wx284109cfb6f05718", "setting": { "urlCheck": true } },
+  "h5": { "title": "解忧小卖部" },
+  "vueVersion": "3"
+}

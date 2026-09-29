@@ -1,0 +1,18 @@
+{
+  "pages": [
+    { "path": "pages/index/index", "style": { "navigationBarTitleText": "解忧小卖部", "navigationStyle": "custom" } },
+    { "path": "pages/record/index", "style": { "navigationBarTitleText": "记录", "navigationStyle": "custom" } },
+    { "path": "pages/profile/index", "style": { "navigationBarTitleText": "我的", "navigationStyle": "custom" } }
+  ],
+  "subPackages": [
+    { "root": "subpages/theme", "pages": [{ "path": "index", "style": { "navigationBarTitleText": "主题", "navigationStyle": "custom" } }] },
+    { "root": "subpages/tarot", "pages": [{ "path": "index", "style": { "navigationBarTitleText": "抽塔罗", "navigationStyle": "custom" } }] },
+    { "root": "subpages/iching", "pages": [{ "path": "index", "style": { "navigationBarTitleText": "起一卦" } }] }
+  ],
+  "globalStyle": {
+    "navigationBarTitleText": "解忧小卖部",
+    "navigationBarBackgroundColor": "#041b41",
+    "navigationBarTextStyle": "white",
+    "backgroundColor": "#041b41"
+  }
+}

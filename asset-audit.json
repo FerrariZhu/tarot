@@ -1,0 +1,1584 @@
+[
+  {
+    "source": "background/career.png",
+    "selected": true,
+    "sourceBytes": 1923315,
+    "productionSource": "background/career.png",
+    "output": "src/subpages/theme/static/ui/background/career.webp",
+    "outputBytes": 121582,
+    "sourceSizePx": [
+      941,
+      1672
+    ],
+    "checked": true
+  },
+  {
+    "source": "background/home.png",
+    "selected": true,
+    "sourceBytes": 1659985,
+    "productionSource": "定稿/生成素材/background/home-no-bubble.png",
+    "output": "src/static/ui/background/home.webp",
+    "outputBytes": 378124,
+    "sourceSizePx": [
+      941,
+      1672
+    ],
+    "checked": true
+  },
+  {
+    "source": "background/love.png",
+    "selected": true,
+    "sourceBytes": 1857506,
+    "productionSource": "background/love.png",
+    "output": "src/subpages/theme/static/ui/background/love.webp",
+    "outputBytes": 121134,
+    "sourceSizePx": [
+      941,
+      1672
+    ],
+    "checked": true
+  },
+  {
+    "source": "background/wealth.png",
+    "selected": true,
+    "sourceBytes": 2015276,
+    "productionSource": "background/wealth.png",
+    "output": "src/subpages/theme/static/ui/background/wealth.webp",
+    "outputBytes": 151246,
+    "sourceSizePx": [
+      941,
+      1672
+    ],
+    "checked": true
+  },
+  {
+    "source": "home/brand.png",
+    "selected": true,
+    "sourceBytes": 1039772,
+    "productionSource": "home/brand.png",
+    "output": "src/static/ui/home/brand.webp",
+    "outputBytes": 76266,
+    "sourceSizePx": [
+      1809,
+      563
+    ],
+    "checked": true
+  },
+  {
+    "source": "home/career-art.png",
+    "selected": true,
+    "sourceBytes": 1813016,
+    "productionSource": "home/career-art.png",
+    "output": "src/static/ui/home/career-art.webp",
+    "outputBytes": 63592,
+    "sourceSizePx": [
+      1067,
+      1475
+    ],
+    "checked": true
+  },
+  {
+    "source": "home/love-art.png",
+    "selected": true,
+    "sourceBytes": 1758458,
+    "productionSource": "home/love-art.png",
+    "output": "src/static/ui/home/love-art.webp",
+    "outputBytes": 54736,
+    "sourceSizePx": [
+      1063,
+      1480
+    ],
+    "checked": true
+  },
+  {
+    "source": "home/wealth-art.png",
+    "selected": true,
+    "sourceBytes": 1854607,
+    "productionSource": "home/wealth-art.png",
+    "output": "src/static/ui/home/wealth-art.webp",
+    "outputBytes": 72496,
+    "sourceSizePx": [
+      1063,
+      1480
+    ],
+    "checked": true
+  },
+  {
+    "source": "tools/career-divination.png",
+    "selected": true,
+    "sourceBytes": 2112277,
+    "productionSource": "tools/career-divination.png",
+    "output": "src/subpages/theme/static/ui/tools/career-divination.webp",
+    "outputBytes": 51320,
+    "sourceSizePx": [
+      1728,
+      910
+    ],
+    "checked": true
+  },
+  {
+    "source": "tools/career-tarot.png",
+    "selected": true,
+    "sourceBytes": 2222388,
+    "productionSource": "tools/career-tarot.png",
+    "output": "src/subpages/theme/static/ui/tools/career-tarot.webp",
+    "outputBytes": 62138,
+    "sourceSizePx": [
+      1729,
+      910
+    ],
+    "checked": true
+  },
+  {
+    "source": "tools/love-divination.png",
+    "selected": true,
+    "sourceBytes": 2022910,
+    "productionSource": "tools/love-divination.png",
+    "output": "src/subpages/theme/static/ui/tools/love-divination.webp",
+    "outputBytes": 45768,
+    "sourceSizePx": [
+      1727,
+      911
+    ],
+    "checked": true
+  },
+  {
+    "source": "tools/love-tarot.png",
+    "selected": true,
+    "sourceBytes": 2230070,
+    "productionSource": "tools/love-tarot.png",
+    "output": "src/subpages/theme/static/ui/tools/love-tarot.webp",
+    "outputBytes": 57512,
+    "sourceSizePx": [
+      1729,
+      910
+    ],
+    "checked": true
+  },
+  {
+    "source": "tools/wealth-divination.png",
+    "selected": true,
+    "sourceBytes": 2190593,
+    "productionSource": "tools/wealth-divination.png",
+    "output": "src/subpages/theme/static/ui/tools/wealth-divination.webp",
+    "outputBytes": 54894,
+    "sourceSizePx": [
+      1728,
+      910
+    ],
+    "checked": true
+  },
+  {
+    "source": "tools/wealth-tarot.png",
+    "selected": true,
+    "sourceBytes": 2251801,
+    "productionSource": "tools/wealth-tarot.png",
+    "output": "src/subpages/theme/static/ui/tools/wealth-tarot.webp",
+    "outputBytes": 62916,
+    "sourceSizePx": [
+      1729,
+      910
+    ],
+    "checked": true
+  },
+  {
+    "source": "icons/arrow-career.png",
+    "selected": true,
+    "sourceBytes": 222085,
+    "productionSource": "icons/arrow-career.png",
+    "output": "src/static/ui/icons/arrow-career.webp",
+    "outputBytes": 3094,
+    "sourceSizePx": [
+      588,
+      585
+    ],
+    "checked": true
+  },
+  {
+    "source": "icons/arrow-love.png",
+    "selected": true,
+    "sourceBytes": 169347,
+    "productionSource": "icons/arrow-love.png",
+    "output": "src/static/ui/icons/arrow-love.webp",
+    "outputBytes": 3018,
+    "sourceSizePx": [
+      500,
+      491
+    ],
+    "checked": true
+  },
+  {
+    "source": "icons/arrow-wealth.png",
+    "selected": true,
+    "sourceBytes": 157426,
+    "productionSource": "icons/arrow-wealth.png",
+    "output": "src/static/ui/icons/arrow-wealth.webp",
+    "outputBytes": 3342,
+    "sourceSizePx": [
+      479,
+      470
+    ],
+    "checked": true
+  },
+  {
+    "source": "icons/bagua.png",
+    "selected": true,
+    "sourceBytes": 374961,
+    "productionSource": "icons/bagua.png",
+    "output": "src/subpages/theme/static/ui/icons/bagua.webp",
+    "outputBytes": 8526,
+    "sourceSizePx": [
+      888,
+      879
+    ],
+    "checked": true
+  },
+  {
+    "source": "icons/career-checkin-star.png",
+    "selected": true,
+    "sourceBytes": 290048,
+    "productionSource": "icons/career-checkin-star.png",
+    "output": "src/subpages/theme/static/ui/icons/career-checkin-star.webp",
+    "outputBytes": 7452,
+    "sourceSizePx": [
+      828,
+      805
+    ],
+    "checked": true
+  },
+  {
+    "source": "icons/love-checkin-rose.png",
+    "selected": true,
+    "sourceBytes": 453796,
+    "productionSource": "icons/love-checkin-rose.png",
+    "output": "src/subpages/theme/static/ui/icons/love-checkin-rose.webp",
+    "outputBytes": 9094,
+    "sourceSizePx": [
+      730,
+      723
+    ],
+    "checked": true
+  },
+  {
+    "source": "icons/nav-home-active.png",
+    "selected": true,
+    "sourceBytes": 318171,
+    "productionSource": "icons/nav-home-active.png",
+    "output": "src/static/ui/icons/nav-home-active.webp",
+    "outputBytes": 4352,
+    "sourceSizePx": [
+      642,
+      568
+    ],
+    "checked": true
+  },
+  {
+    "source": "icons/nav-home-idle.png",
+    "selected": true,
+    "sourceBytes": 1342851,
+    "productionSource": "icons/nav-home-idle.png",
+    "output": "src/static/ui/icons/nav-home-idle.webp",
+    "outputBytes": 4584,
+    "sourceSizePx": [
+      1334,
+      1179
+    ],
+    "checked": true
+  },
+  {
+    "source": "icons/nav-home.png",
+    "selected": false,
+    "sourceBytes": 318171,
+    "productionSource": "icons/nav-home.png",
+    "output": null,
+    "outputBytes": 0,
+    "sourceSizePx": [
+      642,
+      568
+    ],
+    "checked": true
+  },
+  {
+    "source": "icons/nav-profile-active.png",
+    "selected": true,
+    "sourceBytes": 1367726,
+    "productionSource": "icons/nav-profile-active.png",
+    "output": "src/static/ui/icons/nav-profile-active.webp",
+    "outputBytes": 6286,
+    "sourceSizePx": [
+      1165,
+      1350
+    ],
+    "checked": true
+  },
+  {
+    "source": "icons/nav-profile-idle.png",
+    "selected": true,
+    "sourceBytes": 131522,
+    "productionSource": "icons/nav-profile-idle.png",
+    "output": "src/static/ui/icons/nav-profile-idle.webp",
+    "outputBytes": 5066,
+    "sourceSizePx": [
+      439,
+      509
+    ],
+    "checked": true
+  },
+  {
+    "source": "icons/nav-profile.png",
+    "selected": false,
+    "sourceBytes": 131522,
+    "productionSource": "icons/nav-profile.png",
+    "output": null,
+    "outputBytes": 0,
+    "sourceSizePx": [
+      439,
+      509
+    ],
+    "checked": true
+  },
+  {
+    "source": "icons/nav-record-active.png",
+    "selected": true,
+    "sourceBytes": 1073961,
+    "productionSource": "icons/nav-record-active.png",
+    "output": "src/static/ui/icons/nav-record-active.webp",
+    "outputBytes": 6012,
+    "sourceSizePx": [
+      1254,
+      1254
+    ],
+    "checked": true
+  },
+  {
+    "source": "icons/nav-record-idle.png",
+    "selected": true,
+    "sourceBytes": 166341,
+    "productionSource": "icons/nav-record-idle.png",
+    "output": "src/static/ui/icons/nav-record-idle.webp",
+    "outputBytes": 4714,
+    "sourceSizePx": [
+      533,
+      539
+    ],
+    "checked": true
+  },
+  {
+    "source": "icons/nav-record.png",
+    "selected": false,
+    "sourceBytes": 166341,
+    "productionSource": "icons/nav-record.png",
+    "output": null,
+    "outputBytes": 0,
+    "sourceSizePx": [
+      533,
+      539
+    ],
+    "checked": true
+  },
+  {
+    "source": "icons/tarot.png",
+    "selected": true,
+    "sourceBytes": 461166,
+    "productionSource": "icons/tarot.png",
+    "output": "src/subpages/theme/static/ui/icons/tarot.webp",
+    "outputBytes": 8794,
+    "sourceSizePx": [
+      786,
+      687
+    ],
+    "checked": true
+  },
+  {
+    "source": "icons/wealth-checkin-coin.png",
+    "selected": true,
+    "sourceBytes": 811789,
+    "productionSource": "icons/wealth-checkin-coin.png",
+    "output": "src/subpages/theme/static/ui/icons/wealth-checkin-coin.webp",
+    "outputBytes": 5760,
+    "sourceSizePx": [
+      769,
+      764
+    ],
+    "checked": true
+  },
+  {
+    "source": "panels/career-checkin.png",
+    "selected": true,
+    "sourceBytes": 958607,
+    "productionSource": "panels/career-checkin.png",
+    "output": "src/subpages/theme/static/ui/panels/career-checkin.webp",
+    "outputBytes": 8422,
+    "sourceSizePx": [
+      1611,
+      609
+    ],
+    "checked": true
+  },
+  {
+    "source": "panels/career-info.png",
+    "selected": true,
+    "sourceBytes": 1255049,
+    "productionSource": "定稿/切图/career-info-reference.png",
+    "output": "src/subpages/theme/static/ui/panels/career-info.webp",
+    "outputBytes": 52282,
+    "sourceSizePx": [
+      2083,
+      544
+    ],
+    "checked": true
+  },
+  {
+    "source": "panels/love-checkin.png",
+    "selected": true,
+    "sourceBytes": 995315,
+    "productionSource": "panels/love-checkin.png",
+    "output": "src/subpages/theme/static/ui/panels/love-checkin.webp",
+    "outputBytes": 5944,
+    "sourceSizePx": [
+      1572,
+      690
+    ],
+    "checked": true
+  },
+  {
+    "source": "panels/love-info.png",
+    "selected": true,
+    "sourceBytes": 1118975,
+    "productionSource": "定稿/切图/love-info-reference.png",
+    "output": "src/subpages/theme/static/ui/panels/love-info.webp",
+    "outputBytes": 67590,
+    "sourceSizePx": [
+      1968,
+      560
+    ],
+    "checked": true
+  },
+  {
+    "source": "panels/wealth-checkin.png",
+    "selected": true,
+    "sourceBytes": 1294627,
+    "productionSource": "panels/wealth-checkin.png",
+    "output": "src/subpages/theme/static/ui/panels/wealth-checkin.webp",
+    "outputBytes": 7886,
+    "sourceSizePx": [
+      1580,
+      740
+    ],
+    "checked": true
+  },
+  {
+    "source": "panels/wealth-info.png",
+    "selected": true,
+    "sourceBytes": 1318645,
+    "productionSource": "定稿/切图/wealth-info-reference.png",
+    "output": "src/subpages/theme/static/ui/panels/wealth-info.webp",
+    "outputBytes": 63230,
+    "sourceSizePx": [
+      2117,
+      518
+    ],
+    "checked": true
+  },
+  {
+    "source": "decor/career-info.png",
+    "selected": false,
+    "sourceBytes": 552579,
+    "productionSource": "decor/career-info.png",
+    "output": null,
+    "outputBytes": 0,
+    "sourceSizePx": [
+      1389,
+      721
+    ],
+    "checked": true
+  },
+  {
+    "source": "decor/love-info.png",
+    "selected": false,
+    "sourceBytes": 837580,
+    "productionSource": "decor/love-info.png",
+    "output": null,
+    "outputBytes": 0,
+    "sourceSizePx": [
+      1506,
+      691
+    ],
+    "checked": true
+  },
+  {
+    "source": "decor/wealth-info.png",
+    "selected": false,
+    "sourceBytes": 842633,
+    "productionSource": "decor/wealth-info.png",
+    "output": null,
+    "outputBytes": 0,
+    "sourceSizePx": [
+      1812,
+      667
+    ],
+    "checked": true
+  },
+  {
+    "source": "shells/career-tool.png",
+    "selected": false,
+    "sourceBytes": 252043,
+    "productionSource": "shells/career-tool.png",
+    "output": null,
+    "outputBytes": 0,
+    "sourceSizePx": [
+      1319,
+      643
+    ],
+    "checked": true
+  },
+  {
+    "source": "shells/home-career.png",
+    "selected": false,
+    "sourceBytes": 454886,
+    "productionSource": "shells/home-career.png",
+    "output": null,
+    "outputBytes": 0,
+    "sourceSizePx": [
+      922,
+      1298
+    ],
+    "checked": true
+  },
+  {
+    "source": "shells/home-love.png",
+    "selected": false,
+    "sourceBytes": 935314,
+    "productionSource": "shells/home-love.png",
+    "output": null,
+    "outputBytes": 0,
+    "sourceSizePx": [
+      973,
+      1372
+    ],
+    "checked": true
+  },
+  {
+    "source": "shells/home-wealth.png",
+    "selected": false,
+    "sourceBytes": 991067,
+    "productionSource": "shells/home-wealth.png",
+    "output": null,
+    "outputBytes": 0,
+    "sourceSizePx": [
+      918,
+      1318
+    ],
+    "checked": true
+  },
+  {
+    "source": "shells/love-tool.png",
+    "selected": false,
+    "sourceBytes": 233593,
+    "productionSource": "shells/love-tool.png",
+    "output": null,
+    "outputBytes": 0,
+    "sourceSizePx": [
+      1381,
+      849
+    ],
+    "checked": true
+  },
+  {
+    "source": "shells/wealth-tool.png",
+    "selected": false,
+    "sourceBytes": 294559,
+    "productionSource": "shells/wealth-tool.png",
+    "output": null,
+    "outputBytes": 0,
+    "sourceSizePx": [
+      1404,
+      740
+    ],
+    "checked": true
+  },
+  {
+    "source": "cards/back-career.png",
+    "selected": true,
+    "sourceBytes": 588269,
+    "output": "src/subpages/tarot/static/cards/back-career.webp",
+    "outputBytes": 32162,
+    "sourceSizePx": [
+      360,
+      600
+    ],
+    "checked": true
+  },
+  {
+    "source": "cards/back-love.png",
+    "selected": true,
+    "sourceBytes": 599010,
+    "output": "src/subpages/tarot/static/cards/back-love.webp",
+    "outputBytes": 32994,
+    "sourceSizePx": [
+      360,
+      600
+    ],
+    "checked": true
+  },
+  {
+    "source": "cards/back-wealth.png",
+    "selected": true,
+    "sourceBytes": 610942,
+    "output": "src/subpages/tarot/static/cards/back-wealth.webp",
+    "outputBytes": 31546,
+    "sourceSizePx": [
+      360,
+      600
+    ],
+    "checked": true
+  },
+  {
+    "source": "cards/back.png",
+    "selected": true,
+    "sourceBytes": 601869,
+    "output": "src/subpages/tarot/static/cards/back.webp",
+    "outputBytes": 33080,
+    "sourceSizePx": [
+      360,
+      600
+    ],
+    "checked": true
+  },
+  {
+    "source": "cards/cups-01.png",
+    "selected": true,
+    "sourceBytes": 126643,
+    "output": "src/subpages/tarot/static/cards/cups-01.webp",
+    "outputBytes": 22718,
+    "sourceSizePx": [
+      360,
+      600
+    ],
+    "checked": true
+  },
+  {
+    "source": "cards/cups-02.png",
+    "selected": true,
+    "sourceBytes": 120112,
+    "output": "src/subpages/tarot/static/cards/cups-02.webp",
+    "outputBytes": 20912,
+    "sourceSizePx": [
+      360,
+      600
+    ],
+    "checked": true
+  },
+  {
+    "source": "cards/cups-03.png",
+    "selected": true,
+    "sourceBytes": 123035,
+    "output": "src/subpages/tarot/static/cards/cups-03.webp",
+    "outputBytes": 21294,
+    "sourceSizePx": [
+      360,
+      600
+    ],
+    "checked": true
+  },
+  {
+    "source": "cards/cups-04.png",
+    "selected": true,
+    "sourceBytes": 121421,
+    "output": "src/subpages/tarot/static/cards/cups-04.webp",
+    "outputBytes": 21012,
+    "sourceSizePx": [
+      360,
+      600
+    ],
+    "checked": true
+  },
+  {
+    "source": "cards/cups-05.png",
+    "selected": true,
+    "sourceBytes": 123905,
+    "output": "src/subpages/tarot/static/cards/cups-05.webp",
+    "outputBytes": 21206,
+    "sourceSizePx": [
+      360,
+      600
+    ],
+    "checked": true
+  },
+  {
+    "source": "cards/cups-06.png",
+    "selected": true,
+    "sourceBytes": 127522,
+    "output": "src/subpages/tarot/static/cards/cups-06.webp",
+    "outputBytes": 21910,
+    "sourceSizePx": [
+      360,
+      600
+    ],
+    "checked": true
+  },
+  {
+    "source": "cards/cups-07.png",
+    "selected": true,
+    "sourceBytes": 125338,
+    "output": "src/subpages/tarot/static/cards/cups-07.webp",
+    "outputBytes": 20560,
+    "sourceSizePx": [
+      360,
+      600
+    ],
+    "checked": true
+  },
+  {
+    "source": "cards/cups-08.png",
+    "selected": true,
+    "sourceBytes": 129532,
+    "output": "src/subpages/tarot/static/cards/cups-08.webp",
+    "outputBytes": 21538,
+    "sourceSizePx": [
+      360,
+      600
+    ],
+    "checked": true
+  },
+  {
+    "source": "cards/cups-09.png",
+    "selected": true,
+    "sourceBytes": 124081,
+    "output": "src/subpages/tarot/static/cards/cups-09.webp",
+    "outputBytes": 21178,
+    "sourceSizePx": [
+      360,
+      600
+    ],
+    "checked": true
+  },
+  {
+    "source": "cards/cups-10.png",
+    "selected": true,
+    "sourceBytes": 121956,
+    "output": "src/subpages/tarot/static/cards/cups-10.webp",
+    "outputBytes": 22202,
+    "sourceSizePx": [
+      360,
+      600
+    ],
+    "checked": true
+  },
+  {
+    "source": "cards/cups-11.png",
+    "selected": true,
+    "sourceBytes": 123655,
+    "output": "src/subpages/tarot/static/cards/cups-11.webp",
+    "outputBytes": 21442,
+    "sourceSizePx": [
+      360,
+      600
+    ],
+    "checked": true
+  },
+  {
+    "source": "cards/cups-12.png",
+    "selected": true,
+    "sourceBytes": 128528,
+    "output": "src/subpages/tarot/static/cards/cups-12.webp",
+    "outputBytes": 22292,
+    "sourceSizePx": [
+      360,
+      600
+    ],
+    "checked": true
+  },
+  {
+    "source": "cards/cups-13.png",
+    "selected": true,
+    "sourceBytes": 124171,
+    "output": "src/subpages/tarot/static/cards/cups-13.webp",
+    "outputBytes": 20236,
+    "sourceSizePx": [
+      360,
+      600
+    ],
+    "checked": true
+  },
+  {
+    "source": "cards/cups-14.png",
+    "selected": true,
+    "sourceBytes": 124600,
+    "output": "src/subpages/tarot/static/cards/cups-14.webp",
+    "outputBytes": 20290,
+    "sourceSizePx": [
+      360,
+      600
+    ],
+    "checked": true
+  },
+  {
+    "source": "cards/major-00.png",
+    "selected": true,
+    "sourceBytes": 112183,
+    "output": "src/subpages/tarot/static/cards/major-00.webp",
+    "outputBytes": 19332,
+    "sourceSizePx": [
+      360,
+      600
+    ],
+    "checked": true
+  },
+  {
+    "source": "cards/major-01.png",
+    "selected": true,
+    "sourceBytes": 121592,
+    "output": "src/subpages/tarot/static/cards/major-01.webp",
+    "outputBytes": 20414,
+    "sourceSizePx": [
+      360,
+      600
+    ],
+    "checked": true
+  },
+  {
+    "source": "cards/major-02.png",
+    "selected": true,
+    "sourceBytes": 127750,
+    "output": "src/subpages/tarot/static/cards/major-02.webp",
+    "outputBytes": 21330,
+    "sourceSizePx": [
+      360,
+      600
+    ],
+    "checked": true
+  },
+  {
+    "source": "cards/major-03.png",
+    "selected": true,
+    "sourceBytes": 123280,
+    "output": "src/subpages/tarot/static/cards/major-03.webp",
+    "outputBytes": 20326,
+    "sourceSizePx": [
+      360,
+      600
+    ],
+    "checked": true
+  },
+  {
+    "source": "cards/major-04.png",
+    "selected": true,
+    "sourceBytes": 118853,
+    "output": "src/subpages/tarot/static/cards/major-04.webp",
+    "outputBytes": 19994,
+    "sourceSizePx": [
+      360,
+      600
+    ],
+    "checked": true
+  },
+  {
+    "source": "cards/major-05.png",
+    "selected": true,
+    "sourceBytes": 128062,
+    "output": "src/subpages/tarot/static/cards/major-05.webp",
+    "outputBytes": 20436,
+    "sourceSizePx": [
+      360,
+      600
+    ],
+    "checked": true
+  },
+  {
+    "source": "cards/major-06.png",
+    "selected": true,
+    "sourceBytes": 127427,
+    "output": "src/subpages/tarot/static/cards/major-06.webp",
+    "outputBytes": 20960,
+    "sourceSizePx": [
+      360,
+      600
+    ],
+    "checked": true
+  },
+  {
+    "source": "cards/major-07.png",
+    "selected": true,
+    "sourceBytes": 124018,
+    "output": "src/subpages/tarot/static/cards/major-07.webp",
+    "outputBytes": 20596,
+    "sourceSizePx": [
+      360,
+      600
+    ],
+    "checked": true
+  },
+  {
+    "source": "cards/major-08.png",
+    "selected": true,
+    "sourceBytes": 124915,
+    "output": "src/subpages/tarot/static/cards/major-08.webp",
+    "outputBytes": 22502,
+    "sourceSizePx": [
+      360,
+      600
+    ],
+    "checked": true
+  },
+  {
+    "source": "cards/major-09.png",
+    "selected": true,
+    "sourceBytes": 124515,
+    "output": "src/subpages/tarot/static/cards/major-09.webp",
+    "outputBytes": 18888,
+    "sourceSizePx": [
+      360,
+      600
+    ],
+    "checked": true
+  },
+  {
+    "source": "cards/major-10.png",
+    "selected": true,
+    "sourceBytes": 127288,
+    "output": "src/subpages/tarot/static/cards/major-10.webp",
+    "outputBytes": 23178,
+    "sourceSizePx": [
+      360,
+      600
+    ],
+    "checked": true
+  },
+  {
+    "source": "cards/major-11.png",
+    "selected": true,
+    "sourceBytes": 127268,
+    "output": "src/subpages/tarot/static/cards/major-11.webp",
+    "outputBytes": 19300,
+    "sourceSizePx": [
+      360,
+      600
+    ],
+    "checked": true
+  },
+  {
+    "source": "cards/major-12.png",
+    "selected": true,
+    "sourceBytes": 121967,
+    "output": "src/subpages/tarot/static/cards/major-12.webp",
+    "outputBytes": 22556,
+    "sourceSizePx": [
+      360,
+      600
+    ],
+    "checked": true
+  },
+  {
+    "source": "cards/major-13.png",
+    "selected": true,
+    "sourceBytes": 124857,
+    "output": "src/subpages/tarot/static/cards/major-13.webp",
+    "outputBytes": 21658,
+    "sourceSizePx": [
+      360,
+      600
+    ],
+    "checked": true
+  },
+  {
+    "source": "cards/major-14.png",
+    "selected": true,
+    "sourceBytes": 123453,
+    "output": "src/subpages/tarot/static/cards/major-14.webp",
+    "outputBytes": 20468,
+    "sourceSizePx": [
+      360,
+      600
+    ],
+    "checked": true
+  },
+  {
+    "source": "cards/major-15.png",
+    "selected": true,
+    "sourceBytes": 130187,
+    "output": "src/subpages/tarot/static/cards/major-15.webp",
+    "outputBytes": 20074,
+    "sourceSizePx": [
+      360,
+      600
+    ],
+    "checked": true
+  },
+  {
+    "source": "cards/major-16.png",
+    "selected": true,
+    "sourceBytes": 134553,
+    "output": "src/subpages/tarot/static/cards/major-16.webp",
+    "outputBytes": 21594,
+    "sourceSizePx": [
+      360,
+      600
+    ],
+    "checked": true
+  },
+  {
+    "source": "cards/major-17.png",
+    "selected": true,
+    "sourceBytes": 121899,
+    "output": "src/subpages/tarot/static/cards/major-17.webp",
+    "outputBytes": 18568,
+    "sourceSizePx": [
+      360,
+      600
+    ],
+    "checked": true
+  },
+  {
+    "source": "cards/major-18.png",
+    "selected": true,
+    "sourceBytes": 126597,
+    "output": "src/subpages/tarot/static/cards/major-18.webp",
+    "outputBytes": 20808,
+    "sourceSizePx": [
+      360,
+      600
+    ],
+    "checked": true
+  },
+  {
+    "source": "cards/major-19.png",
+    "selected": true,
+    "sourceBytes": 116130,
+    "output": "src/subpages/tarot/static/cards/major-19.webp",
+    "outputBytes": 20570,
+    "sourceSizePx": [
+      360,
+      600
+    ],
+    "checked": true
+  },
+  {
+    "source": "cards/major-20.png",
+    "selected": true,
+    "sourceBytes": 121900,
+    "output": "src/subpages/tarot/static/cards/major-20.webp",
+    "outputBytes": 21170,
+    "sourceSizePx": [
+      360,
+      600
+    ],
+    "checked": true
+  },
+  {
+    "source": "cards/major-21.png",
+    "selected": true,
+    "sourceBytes": 124941,
+    "output": "src/subpages/tarot/static/cards/major-21.webp",
+    "outputBytes": 22630,
+    "sourceSizePx": [
+      360,
+      600
+    ],
+    "checked": true
+  },
+  {
+    "source": "cards/pentacles-01.png",
+    "selected": true,
+    "sourceBytes": 117239,
+    "output": "src/subpages/tarot/static/cards/pentacles-01.webp",
+    "outputBytes": 20788,
+    "sourceSizePx": [
+      360,
+      600
+    ],
+    "checked": true
+  },
+  {
+    "source": "cards/pentacles-02.png",
+    "selected": true,
+    "sourceBytes": 117535,
+    "output": "src/subpages/tarot/static/cards/pentacles-02.webp",
+    "outputBytes": 20102,
+    "sourceSizePx": [
+      360,
+      600
+    ],
+    "checked": true
+  },
+  {
+    "source": "cards/pentacles-03.png",
+    "selected": true,
+    "sourceBytes": 130108,
+    "output": "src/subpages/tarot/static/cards/pentacles-03.webp",
+    "outputBytes": 19846,
+    "sourceSizePx": [
+      360,
+      600
+    ],
+    "checked": true
+  },
+  {
+    "source": "cards/pentacles-04.png",
+    "selected": true,
+    "sourceBytes": 119098,
+    "output": "src/subpages/tarot/static/cards/pentacles-04.webp",
+    "outputBytes": 19228,
+    "sourceSizePx": [
+      360,
+      600
+    ],
+    "checked": true
+  },
+  {
+    "source": "cards/pentacles-05.png",
+    "selected": true,
+    "sourceBytes": 131304,
+    "output": "src/subpages/tarot/static/cards/pentacles-05.webp",
+    "outputBytes": 20270,
+    "sourceSizePx": [
+      360,
+      600
+    ],
+    "checked": true
+  },
+  {
+    "source": "cards/pentacles-06.png",
+    "selected": true,
+    "sourceBytes": 126315,
+    "output": "src/subpages/tarot/static/cards/pentacles-06.webp",
+    "outputBytes": 20416,
+    "sourceSizePx": [
+      360,
+      600
+    ],
+    "checked": true
+  },
+  {
+    "source": "cards/pentacles-07.png",
+    "selected": true,
+    "sourceBytes": 122979,
+    "output": "src/subpages/tarot/static/cards/pentacles-07.webp",
+    "outputBytes": 21970,
+    "sourceSizePx": [
+      360,
+      600
+    ],
+    "checked": true
+  },
+  {
+    "source": "cards/pentacles-08.png",
+    "selected": true,
+    "sourceBytes": 123755,
+    "output": "src/subpages/tarot/static/cards/pentacles-08.webp",
+    "outputBytes": 20594,
+    "sourceSizePx": [
+      360,
+      600
+    ],
+    "checked": true
+  },
+  {
+    "source": "cards/pentacles-09.png",
+    "selected": true,
+    "sourceBytes": 131517,
+    "output": "src/subpages/tarot/static/cards/pentacles-09.webp",
+    "outputBytes": 21938,
+    "sourceSizePx": [
+      360,
+      600
+    ],
+    "checked": true
+  },
+  {
+    "source": "cards/pentacles-10.png",
+    "selected": true,
+    "sourceBytes": 128188,
+    "output": "src/subpages/tarot/static/cards/pentacles-10.webp",
+    "outputBytes": 23000,
+    "sourceSizePx": [
+      360,
+      600
+    ],
+    "checked": true
+  },
+  {
+    "source": "cards/pentacles-11.png",
+    "selected": true,
+    "sourceBytes": 121144,
+    "output": "src/subpages/tarot/static/cards/pentacles-11.webp",
+    "outputBytes": 21708,
+    "sourceSizePx": [
+      360,
+      600
+    ],
+    "checked": true
+  },
+  {
+    "source": "cards/pentacles-12.png",
+    "selected": true,
+    "sourceBytes": 126249,
+    "output": "src/subpages/tarot/static/cards/pentacles-12.webp",
+    "outputBytes": 22688,
+    "sourceSizePx": [
+      360,
+      600
+    ],
+    "checked": true
+  },
+  {
+    "source": "cards/pentacles-13.png",
+    "selected": true,
+    "sourceBytes": 126736,
+    "output": "src/subpages/tarot/static/cards/pentacles-13.webp",
+    "outputBytes": 22170,
+    "sourceSizePx": [
+      360,
+      600
+    ],
+    "checked": true
+  },
+  {
+    "source": "cards/pentacles-14.png",
+    "selected": true,
+    "sourceBytes": 129060,
+    "output": "src/subpages/tarot/static/cards/pentacles-14.webp",
+    "outputBytes": 22270,
+    "sourceSizePx": [
+      360,
+      600
+    ],
+    "checked": true
+  },
+  {
+    "source": "cards/swords-01.png",
+    "selected": true,
+    "sourceBytes": 110799,
+    "output": "src/subpages/tarot/static/cards/swords-01.webp",
+    "outputBytes": 19516,
+    "sourceSizePx": [
+      360,
+      600
+    ],
+    "checked": true
+  },
+  {
+    "source": "cards/swords-02.png",
+    "selected": true,
+    "sourceBytes": 122608,
+    "output": "src/subpages/tarot/static/cards/swords-02.webp",
+    "outputBytes": 22054,
+    "sourceSizePx": [
+      360,
+      600
+    ],
+    "checked": true
+  },
+  {
+    "source": "cards/swords-03.png",
+    "selected": true,
+    "sourceBytes": 123686,
+    "output": "src/subpages/tarot/static/cards/swords-03.webp",
+    "outputBytes": 19464,
+    "sourceSizePx": [
+      360,
+      600
+    ],
+    "checked": true
+  },
+  {
+    "source": "cards/swords-04.png",
+    "selected": true,
+    "sourceBytes": 123320,
+    "output": "src/subpages/tarot/static/cards/swords-04.webp",
+    "outputBytes": 20506,
+    "sourceSizePx": [
+      360,
+      600
+    ],
+    "checked": true
+  },
+  {
+    "source": "cards/swords-05.png",
+    "selected": true,
+    "sourceBytes": 121423,
+    "output": "src/subpages/tarot/static/cards/swords-05.webp",
+    "outputBytes": 20608,
+    "sourceSizePx": [
+      360,
+      600
+    ],
+    "checked": true
+  },
+  {
+    "source": "cards/swords-06.png",
+    "selected": true,
+    "sourceBytes": 120321,
+    "output": "src/subpages/tarot/static/cards/swords-06.webp",
+    "outputBytes": 21138,
+    "sourceSizePx": [
+      360,
+      600
+    ],
+    "checked": true
+  },
+  {
+    "source": "cards/swords-07.png",
+    "selected": true,
+    "sourceBytes": 123682,
+    "output": "src/subpages/tarot/static/cards/swords-07.webp",
+    "outputBytes": 21088,
+    "sourceSizePx": [
+      360,
+      600
+    ],
+    "checked": true
+  },
+  {
+    "source": "cards/swords-08.png",
+    "selected": true,
+    "sourceBytes": 127148,
+    "output": "src/subpages/tarot/static/cards/swords-08.webp",
+    "outputBytes": 22402,
+    "sourceSizePx": [
+      360,
+      600
+    ],
+    "checked": true
+  },
+  {
+    "source": "cards/swords-09.png",
+    "selected": true,
+    "sourceBytes": 129559,
+    "output": "src/subpages/tarot/static/cards/swords-09.webp",
+    "outputBytes": 19334,
+    "sourceSizePx": [
+      360,
+      600
+    ],
+    "checked": true
+  },
+  {
+    "source": "cards/swords-10.png",
+    "selected": true,
+    "sourceBytes": 122040,
+    "output": "src/subpages/tarot/static/cards/swords-10.webp",
+    "outputBytes": 21304,
+    "sourceSizePx": [
+      360,
+      600
+    ],
+    "checked": true
+  },
+  {
+    "source": "cards/swords-11.png",
+    "selected": true,
+    "sourceBytes": 123428,
+    "output": "src/subpages/tarot/static/cards/swords-11.webp",
+    "outputBytes": 22410,
+    "sourceSizePx": [
+      360,
+      600
+    ],
+    "checked": true
+  },
+  {
+    "source": "cards/swords-12.png",
+    "selected": true,
+    "sourceBytes": 128780,
+    "output": "src/subpages/tarot/static/cards/swords-12.webp",
+    "outputBytes": 22638,
+    "sourceSizePx": [
+      360,
+      600
+    ],
+    "checked": true
+  },
+  {
+    "source": "cards/swords-13.png",
+    "selected": true,
+    "sourceBytes": 121507,
+    "output": "src/subpages/tarot/static/cards/swords-13.webp",
+    "outputBytes": 19320,
+    "sourceSizePx": [
+      360,
+      600
+    ],
+    "checked": true
+  },
+  {
+    "source": "cards/swords-14.png",
+    "selected": true,
+    "sourceBytes": 119890,
+    "output": "src/subpages/tarot/static/cards/swords-14.webp",
+    "outputBytes": 19392,
+    "sourceSizePx": [
+      360,
+      600
+    ],
+    "checked": true
+  },
+  {
+    "source": "cards/wands-01.png",
+    "selected": true,
+    "sourceBytes": 107900,
+    "output": "src/subpages/tarot/static/cards/wands-01.webp",
+    "outputBytes": 19922,
+    "sourceSizePx": [
+      360,
+      600
+    ],
+    "checked": true
+  },
+  {
+    "source": "cards/wands-02.png",
+    "selected": true,
+    "sourceBytes": 119247,
+    "output": "src/subpages/tarot/static/cards/wands-02.webp",
+    "outputBytes": 19860,
+    "sourceSizePx": [
+      360,
+      600
+    ],
+    "checked": true
+  },
+  {
+    "source": "cards/wands-03.png",
+    "selected": true,
+    "sourceBytes": 117853,
+    "output": "src/subpages/tarot/static/cards/wands-03.webp",
+    "outputBytes": 20886,
+    "sourceSizePx": [
+      360,
+      600
+    ],
+    "checked": true
+  },
+  {
+    "source": "cards/wands-04.png",
+    "selected": true,
+    "sourceBytes": 127692,
+    "output": "src/subpages/tarot/static/cards/wands-04.webp",
+    "outputBytes": 22772,
+    "sourceSizePx": [
+      360,
+      600
+    ],
+    "checked": true
+  },
+  {
+    "source": "cards/wands-05.png",
+    "selected": true,
+    "sourceBytes": 128000,
+    "output": "src/subpages/tarot/static/cards/wands-05.webp",
+    "outputBytes": 22564,
+    "sourceSizePx": [
+      360,
+      600
+    ],
+    "checked": true
+  },
+  {
+    "source": "cards/wands-06.png",
+    "selected": true,
+    "sourceBytes": 123735,
+    "output": "src/subpages/tarot/static/cards/wands-06.webp",
+    "outputBytes": 21704,
+    "sourceSizePx": [
+      360,
+      600
+    ],
+    "checked": true
+  },
+  {
+    "source": "cards/wands-07.png",
+    "selected": true,
+    "sourceBytes": 115568,
+    "output": "src/subpages/tarot/static/cards/wands-07.webp",
+    "outputBytes": 20630,
+    "sourceSizePx": [
+      360,
+      600
+    ],
+    "checked": true
+  },
+  {
+    "source": "cards/wands-08.png",
+    "selected": true,
+    "sourceBytes": 118747,
+    "output": "src/subpages/tarot/static/cards/wands-08.webp",
+    "outputBytes": 21050,
+    "sourceSizePx": [
+      360,
+      600
+    ],
+    "checked": true
+  },
+  {
+    "source": "cards/wands-09.png",
+    "selected": true,
+    "sourceBytes": 123428,
+    "output": "src/subpages/tarot/static/cards/wands-09.webp",
+    "outputBytes": 20818,
+    "sourceSizePx": [
+      360,
+      600
+    ],
+    "checked": true
+  },
+  {
+    "source": "cards/wands-10.png",
+    "selected": true,
+    "sourceBytes": 124478,
+    "output": "src/subpages/tarot/static/cards/wands-10.webp",
+    "outputBytes": 23174,
+    "sourceSizePx": [
+      360,
+      600
+    ],
+    "checked": true
+  },
+  {
+    "source": "cards/wands-11.png",
+    "selected": true,
+    "sourceBytes": 119761,
+    "output": "src/subpages/tarot/static/cards/wands-11.webp",
+    "outputBytes": 21068,
+    "sourceSizePx": [
+      360,
+      600
+    ],
+    "checked": true
+  },
+  {
+    "source": "cards/wands-12.png",
+    "selected": true,
+    "sourceBytes": 122900,
+    "output": "src/subpages/tarot/static/cards/wands-12.webp",
+    "outputBytes": 20918,
+    "sourceSizePx": [
+      360,
+      600
+    ],
+    "checked": true
+  },
+  {
+    "source": "cards/wands-13.png",
+    "selected": true,
+    "sourceBytes": 126664,
+    "output": "src/subpages/tarot/static/cards/wands-13.webp",
+    "outputBytes": 21828,
+    "sourceSizePx": [
+      360,
+      600
+    ],
+    "checked": true
+  },
+  {
+    "source": "cards/wands-14.png",
+    "selected": true,
+    "sourceBytes": 120767,
+    "output": "src/subpages/tarot/static/cards/wands-14.webp",
+    "outputBytes": 20416,
+    "sourceSizePx": [
+      360,
+      600
+    ],
+    "checked": true
+  }
+]
