@@ -10,7 +10,7 @@ APP = Path(__file__).resolve().parents[1]
 SOURCE = APP.parent
 ART = SOURCE / '定稿' / '生成素材'
 CUT = SOURCE / '定稿' / '切图'
-CARD = SOURCE / 'assets' / 'cards'
+CARD = SOURCE / 'assets' / 'cards' / 'art'
 MANIFEST = json.loads((ART / 'manifest.json').read_text(encoding='utf-8'))
 
 HOME = {'background/home.png', 'home/brand.png', *(f'home/{x}-art.png' for x in ('love', 'career', 'wealth')),
@@ -127,9 +127,9 @@ for entry in MANIFEST['assets']:
 
 for src in sorted(CARD.glob('*.png')):
     dst = APP / 'src/subpages/tarot/static/cards' / f'{src.stem}.webp'
-    bounds, quality = ((220, 366), 55) if src.stem.startswith('back') else ((220, 366), 43)
+    bounds, quality = (440, 733), 85
     original, size = convert(src, dst, bounds, quality)
-    rows.append({'source': f'cards/{src.name}', 'selected': True, 'sourceBytes': src.stat().st_size,
+    rows.append({'source': f'cards/art/{src.name}', 'selected': True, 'sourceBytes': src.stat().st_size,
                  'output': str(dst.relative_to(APP)).replace('\\', '/'), 'outputBytes': size,
                  'sourceSizePx': list(original), 'checked': True})
 

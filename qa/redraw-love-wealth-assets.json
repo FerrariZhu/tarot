@@ -1,0 +1,22 @@
+[
+  {
+    "id": "love-home",
+    "source": "C:\\Users\\aa404\\.codex\\generated_images\\01a0ece4-4040-74f2-88a4-32964d4017d1\\exec-2e7e3743-5db3-4986-80b1-79204b989cfb.png",
+    "target": "src/subpages/theme/static/ui/background/love.webp"
+  },
+  {
+    "id": "love-tarot",
+    "source": "C:\\Users\\aa404\\.codex\\generated_images\\01a0ece4-4040-74f2-88a4-32964d4017d1\\exec-f496ed5b-a6b9-4ae2-89b4-add018254549.png",
+    "target": "src/static/tarot/love-selection-scene.webp"
+  },
+  {
+    "id": "wealth-home",
+    "source": "C:\\Users\\aa404\\.codex\\generated_images\\01a0ece4-4040-74f2-88a4-32964d4017d1\\exec-7faa0133-5ccb-41f6-b120-94d8a37caa39.png",
+    "target": "src/subpages/theme/static/ui/background/wealth.webp"
+  },
+  {
+    "id": "wealth-tarot",
+    "source": "C:\\Users\\aa404\\.codex\\generated_images\\01a0ece4-4040-74f2-88a4-32964d4017d1\\exec-35be1f7a-f24a-4a4f-8df4-729218dbfa9f.png",
+    "target": "src/static/tarot/wealth-selection-scene.webp"
+  }
+]

@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 267 502" preserveAspectRatio="none">
+  <rect x="2" y="2" width="263" height="498" rx="12" fill="none" stroke="#ffe8a7" stroke-width="3.5"/>
+  <rect x="7" y="7" width="253" height="488" rx="8" fill="none" stroke="#e6bd68" stroke-width="1.4"/>
+  <g fill="none" stroke="#e6bd68" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M9 37c3-2 6-6 6-11 0-7 5-12 12-12 5 0 9-3 11-6M15 35c11-4 11-13 11-20M34 15c-4 10-11 12-19 11"/>
+    <path d="M258 37c-3-2-6-6-6-11 0-7-5-12-12-12-5 0-9-3-11-6M252 35c-11-4-11-13-11-20M233 15c4 10 11 12 19 11"/>
+    <path d="M9 467c3 2 6 6 6 11 0 7 5 12 12 12 5 0 9 3 11 6M15 469c11 4 11 13 11 20M34 489c-4-10-11-12-19-11"/>
+    <path d="M258 467c-3 2-6 6-6 11 0 7-5 12-12 12-5 0-9 3-11 6M252 469c-11 4-11 13-11 20M233 489c4-10 11-12 19-11"/>
+  </g>
+  <g fill="#e6bd68">
+    <circle cx="18" cy="18" r="1.8"/><circle cx="249" cy="18" r="1.8"/>
+    <circle cx="18" cy="484" r="1.8"/><circle cx="249" cy="484" r="1.8"/>
+  </g>
+<g fill="none" stroke="#e6bd68" stroke-width="1.1">
+    <path d="M9 394c0-9 4-12 10-12s9 5 6 9c-4 5-11 0-6-4m239 7c0-9-4-12-10-12s-9 5-6 9c4 5 11 0 6-4M9 448c0-9 4-12 10-12s9 5 6 9c-4 5-11 0-6-4m239 7c0-9-4-12-10-12s-9 5-6 9c4 5 11 0 6-4"/>
+    <path d="M31 12c0 8 5 14 12 14m-10-8c8-1 12-6 14-10M236 12c0 8-5 14-12 14m10-8c-8-1-12-6-14-10"/>
+    </g><g fill="#e6bd68"><path d="M25 425l2 6 6 2-6 2-2 6-2-6-6-2 6-2zM242 425l2 6 6 2-6 2-2 6-2-6-6-2 6-2z"/></g></svg>

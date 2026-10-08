@@ -1,7 +1,7 @@
 <template>
-  <view class="scene-page">
+  <view class="scene-page" :class="key">
     <image class="scene-bg" :src="themeUi(`background/${key}`)" mode="aspectFill" />
-    <view class="title">{{ theme }}</view>
+    <view v-if="theme !== '事业'" class="title">{{ theme }}</view>
     <view class="checkin" @tap="checkIn" :aria-label="checkedToday ? '今日已打卡' : '今日打卡'">
       <image class="panel-bg" :src="themeUi(`panels/${key}-checkin`)" mode="scaleToFill" />
       <view class="checkin-inner">
@@ -69,6 +69,8 @@ function openTool(id: string) {
 .scene-page { height: 100vh; min-height: 560px; overflow: hidden; position: relative; background: #041b41; }
 .scene-bg { position: absolute; inset: 0; width: 100%; height: 100%; }
 .title { position: absolute; top: calc(4% + env(safe-area-inset-top)); width: 100%; text-align: center; font-size: 64rpx; line-height: 1.15; font-weight: bold; text-shadow: 0 3rpx 12rpx #041b41; }
+.love .title,.wealth .title { left:22.2%;width:55.6%;box-sizing:border-box;padding:clamp(10px,2.5vw,14px) 0;border:1px solid rgba(250,220,152,.82);border-radius:clamp(14px,3.8vw,20px);background:linear-gradient(110deg,rgba(21,41,71,.61),rgba(27,47,76,.54) 55%,rgba(28,45,77,.57));-webkit-backdrop-filter:blur(8px);backdrop-filter:blur(8px);box-shadow:0 0 0 1px rgba(249,211,126,.14),0 8px 22px rgba(5,15,34,.22),inset 0 0 22px rgba(255,224,153,.07); }
+.love .title { border-color:rgba(255,221,188,.84);background:linear-gradient(110deg,rgba(117,80,69,.48),rgba(58,61,82,.54) 56%,rgba(37,49,76,.58)); }
 .checkin { position: absolute; top: 25%; right: 2.5%; width: 32%; height: 11%; min-height: 105rpx; overflow: hidden; border-radius: 14rpx; }
 .panel-bg { position: absolute; inset: 0; width: 100%; height: 100%; }
 .checkin-inner { position: relative; height: 100%; display: flex; align-items: center; justify-content: center; flex-direction: column; }
