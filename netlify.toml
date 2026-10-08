@@ -1,0 +1,6 @@
+[build]
+  command = "pnpm run build:h5"
+  publish = "dist/build/h5"
+
+[build.environment]
+  NODE_VERSION = "24"
